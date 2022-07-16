@@ -5,4 +5,4 @@ Easy Way To Run:
 - Clone Project To HTDOCS Folder
 - Install Postgres
 - Open Models/Database.php and edit the $host variable (first line of the Database class) to your computer's local ip address. 
-- Navigate the webserver in your browser.
+- Navigate to the webserver in your browser.
